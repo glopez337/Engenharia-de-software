@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-03-14T23:59:08.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ex8XviBzHnHqX8p8a8nX" version="24.0.6" type="device">
+  <diagram name="Página-1" id="o1s77WLsq7fXBRaIBefV">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-1" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-2" value="Profissional da Saúde" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-5" value="Apresenta Carteirinha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-7" value="Confere o Histórico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-8" value="Vizualiza cronograma/status de vacinas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="550" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="500" as="sourcePoint" />
+            <mxPoint x="290" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="500" as="sourcePoint" />
+            <mxPoint x="290" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_dG5enmDSsdNhGn3Qrnr-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
